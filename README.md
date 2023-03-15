@@ -40,12 +40,11 @@ For local hosting:
 
 Single contribution project 
 
-<a name="appDemo"></a>
-### App Demo
 
-<a href="https://www.youtube.com/watch?v=R5s3weDsFPE" target="_blank">
-  <img src="SneakerHead.png" alt="watch video" width=490 height=250 border=10 />
-</a>
+### Images
+
+
+<img src="SneakerHead.png" alt="watch video" width=490 height=250 border=10 />
 
 ----
 
