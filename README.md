@@ -44,7 +44,10 @@ Single contribution project
 ### Images
 
 
-<img src="SneakerHead.png" alt="watch video" width=490 height=250 border=10 />
+<img src="ChatGPT Homepage.png" alt="watch video" width=490 height=250 border=10 />
+<img src="DesktopView.png" alt="watch video" width=490 height=250 border=10 />
+<img src="MobileView.png" alt="watch video" width=490 height=250 border=10 />
+<img src="MobileView2.png" alt="watch video" width=490 height=250 border=10 />
 
 ----
 
