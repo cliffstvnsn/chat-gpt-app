@@ -1,18 +1,17 @@
-# FakeNews Live News-Media App
+# ChatGPT
 
-Live News-Media mobile-responsive website with data from the MediaStack API and dark mode enabled
+ChatGPT clone (mobile responsive) using OpenAI's API
 
-- Dynamic page rendering by category and search 
-- Single-page website made mobile responsive (and dark mode) using React.js, Next.js 13, TypeScript and HTML5/Tailwind CSS. 
-- Live news content is populated from the MediaStack API
+- Log-in with Google Authentication via firebase 
+-  ChatGPT chatbot, a natural language processing (NLP) chatbot that utilizes AI-powered technologies from
+OpenAI, leveraging Next.js 13 and Tailwind CSS
+- The application is able to recognize natural language and respond to user inputs using the OpenAI API.
 
 ### User Story
 ```
 AS a consumer
-I WANT to see live news articles everytime I navigate to the website or refresh the page  
-SO THAT I can stay informed day-by-day, minute-by-minute
-I WANT to be able to navigate to specific articles via category or using the search input
-SO THAT I can quickly find articles pertaining to my interest or specific parameters
+I WANT to leverage ChatGPT to quickly acquire/learn critical information on a variety of topics
+SO THAT I can optimize my life professionally and personally as a developer
 ```
 
 ## Table of Contents
